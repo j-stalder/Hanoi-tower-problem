@@ -22,7 +22,7 @@ Visit the [Anaconda website](https://www.anaconda.com/distribution/) and downloa
 Visit the [Sagemath website](https://www.sagemath.org/download.html) and download the distribution for your system.
 
 ## Author
-* j-stalder(https://github.com/j-stalder)
+* [j-stalder](https://github.com/j-stalder)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
