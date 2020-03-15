@@ -16,7 +16,7 @@ In order to solve the puzzle you have to make use of recursion.
 The examples given in this project are made with the Jupyter-Notebook of the Anaconda Distribution using the Sagemath Kernel 9.0.0. In order to solve the mathematical problems this project uses [Sagemath](https://www.sagemath.org/) open source software.
 
 ### Installation of Anaconda
-Visit the [anaconda website](https://www.anaconda.com/distribution/) and download the Anaconda distribution for your system (this project is based on Python 3.7)
+Visit the [Anaconda website](https://www.anaconda.com/distribution/) and download the Anaconda distribution for your system (this project is based on Python 3.7)
 
 ### Installation of Sagemath
 Visit the [Sagemath website](https://www.sagemath.org/download.html) and download the distribution for your system.
